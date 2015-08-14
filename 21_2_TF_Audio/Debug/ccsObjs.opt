@@ -1,0 +1,1 @@
+"./src/SD/SPI.obj" "./src/SD/SD_SPI.obj" "./src/SD/SD_HardWare.obj" "./src/softFIFO.obj" "./src/DAC8411.obj" "./main.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
